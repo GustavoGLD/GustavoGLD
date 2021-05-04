@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 Sou programador iniciante. Aprendiz de C++, Linux, GameDev, OpenGL e amante de Computação Gráfica.
 Planejo aprender mais sobre Machine Learning, Networking, Estruturas de Dados e Sistemas Operacionais
+
+[Veja meu atual e principal pejeto!](https://github.com/GustavoGLD/OpenGL)
+
 ![](https://media.discordapp.net/attachments/741550250916970536/837078220188418058/unknown.png?width=590&height=460)
