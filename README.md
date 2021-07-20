@@ -42,7 +42,7 @@ Discord: !Gustavo!#0001
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
-**Minhas principais Libraries:**
+**Minhas principais Bibliotecas/Frameworks:**
 
 ![](https://img.shields.io/badge/GLFW-FFFFFF?style=for-the-badge&logo=opengl)
 ![](https://img.shields.io/badge/GLAD-FFFFFF?style=for-the-badge&logo=opengl)
