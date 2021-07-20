@@ -58,7 +58,7 @@ Discord: !Gustavo!#0001
 **Meu principal Sistema Operacional:**
 
 ![](https://img.shields.io/badge/GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) (I use Arch, BTW)
 
 **Outras distros Linux que usei:**
 
