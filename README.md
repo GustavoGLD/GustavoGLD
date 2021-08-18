@@ -46,7 +46,7 @@ Discord: !Gustavo!#0001
 
 ![](https://img.shields.io/badge/GLFW-FFFFFF?style=for-the-badge&logo=opengl)
 ![](https://img.shields.io/badge/GLAD-FFFFFF?style=for-the-badge&logo=opengl)
-![](https://img.shields.io/badge/SFML-FFFFFF?style=for-the-badge&logo=opengl)
+![](https://camo.githubusercontent.com/f80e868fb72f4469fdabae9927bf68276801ecb2a3f104cae745f3338595b372/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53464d4c2d3843433434353f7374796c653d666f722d7468652d6261646765266c6f676f3d53464d4c266c6f676f436f6c6f723d7768697465)
 
 **Meu principal Editor de Códigos:**
 
