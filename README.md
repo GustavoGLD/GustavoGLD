@@ -35,7 +35,3 @@ Discord: !Gustavo!#3145
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) (I use Arch, BTW)
-
-----
-
-![](https://media4.giphy.com/media/jlfulL2NK1D2M/giphy.gif?cid=790b761183451d1e84ba7388420c82dd05ca7e34fc99ea9a&rid=giphy.gif&ct=g)
