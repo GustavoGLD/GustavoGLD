@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 In the future I want to learn about Machine Learning, Networking and more Computer Graphics.
 - ⚡ Fun fact: I love Linux 🐧
 
-Discord: !Gustavo!#3145
+Discord: !Gustavo!#1581
 
 ----
 
