@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 Discord: !Gustavo!#1581
 
 ----
+### Status
+
 <center>
 <table>
     <tr>
