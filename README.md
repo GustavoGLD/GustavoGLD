@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🤓 I am a teenager who loves Physics, Philosophy, Music and Computing.
 - 🌱 Currently learning more about Operating Systems and Computer Graphics.
-- 🔭 In the future I want to learn about Machine Learning, Networking and more Computer Graphics
+- 🔭 In the future I want to learn about Machine Learning, Networking and more Computer Graphics.
 - ⚡ Fun fact: I love Linux 🐧
 
 Discord: !Gustavo!#1581
