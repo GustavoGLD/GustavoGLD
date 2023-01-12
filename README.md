@@ -27,7 +27,7 @@ Discord: !Gustavo!#1581
 <center>
 <table>
     <tr>
-        <td><img width="500px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoGLD&show_icons=true&theme=vue-dark" /></td>
+        <td><img width="550px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoGLD&show_icons=true&theme=vue-dark" /></td>
         <td><img width="450px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoGLD&layout=compact&theme=vue-dark"/></td>
     </tr>   
 </table>
