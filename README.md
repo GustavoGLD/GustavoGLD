@@ -1,25 +1,20 @@
-### Hi there 👋
 
-<!--
-**GustavoGLD/GustavoGLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salve!
 
-Here are some ideas to get you started:
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/gustavo-lidio-damaceno) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gu.lidio) [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/eu.gustavo)
 
-- 🌱 I’m currently learning Linux
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 🤓 I am a teenager who loves Physics, Philosophy, Music and Computing.
-- 🌱 Currently learning more about Operating Systems and Computer Graphics.
-- 🔭 In the future I want to learn about Machine Learning, Networking and more Computer Graphics.
-- ⚡ Fun fact: I love Linux 🐧
+## 👨‍💻 Sobre mim
 
-Discord: !Gustavo!#1581
+- 💼 **Ocupação**: Estagiário de Desenvolvimento, Análise e Programação na SISCOF
+- 🎓 **Formação**: Graduando em **Ciência de Dados** pela **Universidade Federal do ABC (UFABC)**
+- 💻 **Especialidades**: Desenvolvimento de sistemas com foco em automação de processos
+- 🌱 **Aprendizado atual**: Aperfeiçoamento em **Python**, design de código, arquitetura de software e testes de unidade
+- 🎵 **Músico apaixonado**: Gosto de compor e tocar música, explorando melodias e letras que expressam emoções e ideias.
+- 🎨 **Interesse por Arte e Psicologia**: Sou fascinado por psicologia e a maneira como a arte pode ser usada como ferramenta terapêutica, especialmente por meio da escrita criativa.
+
+Durante meu estágio, trabalhei na automação de processos como emissão de Notas Fiscais Eletrônicas (NF-e) e a coleta de dados financeiros, como a DIMP (Declaração de Informações de Meios de Pagamentos) e DECRED (Declaração de Operações com Cartões de Crédito), sempre visando melhorar a eficiência da empresa.
 
 ----
 ### Status
@@ -35,12 +30,16 @@ Discord: !Gustavo!#1581
 
 ----
 
-### Skills
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+![Pydantic](https://img.shields.io/badge/-Pydantic-333333?style=flat&logo=pydantic)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
-![](https://camo.githubusercontent.com/f80e868fb72f4469fdabae9927bf68276801ecb2a3f104cae745f3338595b372/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53464d4c2d3843433434353f7374796c653d666f722d7468652d6261646765266c6f676f3d53464d4c266c6f676f436f6c6f723d7768697465)
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) (I use Arch, BTW)
+
 
