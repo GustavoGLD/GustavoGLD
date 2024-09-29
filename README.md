@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 💼 **Ocupação**: Estagiário de Desenvolvimento, Análise e Programação na SISCOF
+- 💼 **Ocupação**: Estagiário de Desenvolvimento, Análise e Programação na [SISCOF](https://siscof.me/)
 - 🎓 **Formação**: Graduando em **Ciência de Dados** pela **Universidade Federal do ABC (UFABC)**
 - 💻 **Especialidades**: Desenvolvimento de sistemas com foco em automação de processos
 - 🌱 **Aprendizado atual**: Aperfeiçoamento em **Python**, design de código, arquitetura de software e testes de unidade
