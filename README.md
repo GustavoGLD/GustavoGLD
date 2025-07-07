@@ -23,7 +23,7 @@ Durante meu estágio, trabalhei na automação de processos como emissão de Not
 <table>
     <tr>
         <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=GustavoGLD&show_icons=true&theme=vue-dark" /></td>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=GustavoGLD&layout=compact&theme=vue-dark"/></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGLD&layout=compact&theme=vue-dark"/></td>
     </tr>   
 </table>
 </center>  
