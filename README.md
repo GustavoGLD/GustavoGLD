@@ -14,7 +14,7 @@
 - 🎵 **Músico apaixonado**: Gosto de compor e tocar música, explorando melodias e letras que expressam emoções e ideias.
 - 🎨 **Interesse por Arte e Psicologia**: Sou fascinado por psicologia e a maneira como a arte pode ser usada como ferramenta terapêutica, especialmente por meio da escrita criativa.
 
-Durante meu estágio, trabalhei na automação de processos como emissão de Notas Fiscais Eletrônicas (NF-e) e a coleta de dados financeiros, como a DIMP (Declaração de Informações de Meios de Pagamentos) e DECRED (Declaração de Operações com Cartões de Crédito), sempre visando melhorar a eficiência da empresa.
+Durante meu estágio, trabalhei na automação de processos como emissão de Notas Fiscais Eletrônicas (NF-e) e a coleta de dados financeiros, como a DIMP (Declaração de Informações de Meios de Pagamentos), sempre visando melhorar a eficiência da empresa.
 
 ----
 ### Meus status
