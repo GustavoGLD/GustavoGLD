@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 💼 **Ocupação**: Estagiário de Desenvolvimento, Análise e Programação na [SISCOF](https://siscof.me/)
+- 💼 **Ocupação**: Engenheiro de Software JR em Meios de Pagamento
 - 🎓 **Formação**: Graduando em **Bacharelado em Ciência da Computação** pela **Universidade Federal do ABC (UFABC)**
 - 💻 **Especialidades**: Desenvolvimento de sistemas com foco em automação de processos
 - 🌱 **Aprendizado atual**: Aperfeiçoamento em **Python**, design de código, arquitetura de software e testes de unidade
